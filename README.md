@@ -10,7 +10,7 @@ I'm a Technical Program Manager / AI Product Manager by day, currently leading d
 |---|---|---|
 | 1 | [AI Email Assistant](./01-ai-email-assistant) | Inbox summarization, urgency classification, response drafting, LLM-as-judge evaluation |
 | 2 | [Knowledge Base RAG Chatbot](./02-knowledge-base-rag-chatbot) | Embeddings + vector store, conversational retrieval, source citation, human-escalation fallback |
-| 3 | [Research Proposal Automation Agent](./03-research-proposal-agent) | Multi-step LangChain pipeline, literature synthesis via RAG, structured proposal drafting |
+| 3 | [Research Proposal Automation Agent](./03-research-proposal-agent) | NOFO-aligned proposal drafting, FAISS semantic search, LLM-as-judge scoring against funder criteria, human-in-the-loop review |
 | 4 | [News Discovery Agent](./04-news-discovery-agent) | Autonomous topic/keyword filtering, relevance & recency ranking, source-attributed digesting |
 | 5 | [Competitive Analysis Agent](./05-competitive-analysis-agent) | Multi-source research automation, signal extraction, structured competitive-intelligence briefs |
 | 6 | [AI Assistant with LangChain Agents](./06-langchain-multitool-assistant) | Tool-calling, memory, multi-step reasoning, agent orchestration across multi-turn tasks |
